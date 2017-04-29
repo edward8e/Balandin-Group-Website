@@ -109,6 +109,19 @@ body{
 	align-items: center;
 	flex-direction: column;
 }
+@media (max-width: 760px) {
+	.carousel-bar{
+	height: 13rem;
+	top: 0rem;
+	}
+	.carousel-caption{
+	bottom: 0;
+	top: 0;
+	left: 0;
+	right: 0;
+/*	background-color: aqua;*/
+}
+}
 
 
 
@@ -123,7 +136,7 @@ body{
 .grid {
 /*  background: #DDD;*/
 	margin-top: 5rem;
-  max-width: 100%;
+/*  max-width: 100%;*/
 }
 
 /* clear fix */
@@ -136,7 +149,7 @@ body{
 /* ---- .grid-item ---- */
 
 .grid-item {
-  float: left;
+  float: center;
   width: 310px;
   height: 200px;
 /*  background: #C09;*/
@@ -153,6 +166,20 @@ body{
 .grid-item--width2 { width: 640px; }
 .grid-item--height2 { height: 433px; }
 
+
+@media (max-width: 760px) {
+  .grid-item--width2 { 
+	  width: 100%;
+	}
+	.grid-item--height2 { 
+	height: auto; }
+	
+	.grid-item {
+  width: 100%;
+  height: auto;
+}
+
+}
 
 /*Articles*/
 
