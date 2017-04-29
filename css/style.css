@@ -20,7 +20,6 @@ body{
 
 #myCarousel{
 	height: 100%;
-	top: 10px;
 }
 .container{
 	min-width: 90%;
@@ -33,7 +32,7 @@ body{
 	margin-right: 5px;
 }
 .navbar, .navbar-brand{
-	height: 10%;
+/*	height: 10%;*/
 	display: flex;
 	align-items: center;
 	font-size: 2rem;
