@@ -8,7 +8,7 @@
 body{
 	background-color: white;
 }
-.highlight-photo{
+.jumbotron{
 	background-image: url(../resources/images/website-group.jpg);
 	background-position: center;
 	background-size: cover;
@@ -20,20 +20,31 @@ body{
 	color: white;
 	align-items: center;
 	padding-bottom: 1rem;
-	
+	margin-bottom: 0px;
 }
-.carousel-bar h3{
-	bottom: 10rem;
+.jumbotron{
+	text-align: center;
 }
+@media (max-width: 760px) {
+	.carousel-caption{
+	top: 5%;
+	}
+
+}
+
+
+
+
 .black-bar{
 	background-color: rgb(69, 69, 69);
 	color: white;
 	text-align: center;
-	padding: 1rem;
+/*	padding: 1rem 0rem;*/
 }
 .black-bar p{
 	margin: 0px;
 }
+
 .location-info{
 	display: flex;
 	justify-content: flex-end;
@@ -103,14 +114,7 @@ footer{
 	border-bottom: dotted 1px black;
 }
 
-.center-block() {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-.impact-nav{
-	.center-block();
-}
+
 .impact-nav a{
 	color: #404040;
 	display: flex;
