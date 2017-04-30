@@ -28,7 +28,51 @@ body{
 .black-bar{
 	background-color: rgb(69, 69, 69);
 	color: white;
+	text-align: center;
+	padding: 1rem;
 }
+.black-bar p{
+	margin: 0px;
+}
+.location-info{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	
+}
+.room-title{
+	display: flex;
+	flex-direction: column;
+	text-align: right;
+	font-size: 2rem;
+	padding-right: 1rem;
+}
+.room-title .strong{
+	font-size: 3rem;
+}
+.black-bar a, .black-bar .orange-anchor a{
+	color: #02b2f4;
+}
+.tel-info, .email-info{
+	font-size: 2rem;
+	padding: 2rem;
+}
+
+
+@media (max-width: 760px) {
+	.location-info{
+		justify-content: center;
+	}
+	.address-info{
+	padding: 2rem;
+}
+}
+
+
+
+
+
+
 .profile-block-content h2{
 	color: #ff552c;
 	font-size: 4rem;
