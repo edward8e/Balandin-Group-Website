@@ -186,6 +186,8 @@
 <!--        Packery Fit-->
 
 <div class="grid">
+ 
+  
   
   <div class="grid-item grid-item--height2">
 	<div class="row">
@@ -513,7 +515,9 @@
     
     <script>// external js: packery.pkgd.js
 
-var $grid = $('.grid').packery({
+var grid = document.querySelector('.grid');
+
+var pckry = new Packery( grid, {
   itemSelector: '.grid-item',
   // columnWidth useful for fitting
   columnWidth: 1

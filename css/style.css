@@ -135,20 +135,14 @@ body{
 .grid {
 /*  background: #DDD;*/
 	margin-top: 5rem;
-/*  max-width: 100%;*/
+  max-width: 100%;
 }
 
-/* clear fix */
-.grid:after {
-  content: '';
-  display: block;
-  clear: both;
-}
 
 /* ---- .grid-item ---- */
 
 .grid-item {
-  float: center;
+  float: right;
   width: 310px;
   height: 200px;
 /*  background: #C09;*/
@@ -179,6 +173,7 @@ body{
 }
 
 }
+
 
 /*Articles*/
 
