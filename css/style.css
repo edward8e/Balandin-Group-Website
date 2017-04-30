@@ -108,6 +108,12 @@ body{
 	margin-top: 5rem;
   max-width: 100%;
 }
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
 
 
 /* ---- .grid-item ---- */
@@ -203,12 +209,6 @@ footer{
 	padding-top: 2rem;
 	padding-bottom: 5rem;
 }
-.footer-icons {
-	display: flex;
-	justify-content: space-between;
-	
-}
-
 .footer-middle {
 	border-left: dotted 1px white;
 	border-right: dotted 1px white;
