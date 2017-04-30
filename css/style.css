@@ -25,39 +25,10 @@ body{
 	min-width: 90%;
 }
 
-
-.navbar-brand img{
-	height: 50px;
-	width: auto;
-	margin-right: 5px;
-}
-.navbar, .navbar-brand{
-/*	height: 10%;*/
-	display: flex;
-	align-items: center;
-	font-size: 2rem;
-}
 .navbar-brand p{
 	font-size: 2.5rem;
 	margin: 0px;
 }
-.navbar .container{
-	width: 90%;
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	padding: 0px 
-}
-
-@media (max-width: 760px) {
-  .navbar .container{
-	display: inline-block;
-}
-.navbar, .navbar-brand{
-	display: inline-block;
-}
-}
-
 
 
 
