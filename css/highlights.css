@@ -9,11 +9,12 @@ body{
 	background-color: white;
 }
 .jumbotron{
-	background-image: url(../resources/images/website-group.jpg);
+	background-image: url(../resources/images/website-group1.jpg);
 	background-position: center;
 	background-size: cover;
-	height: 100%;
+
 	width: 100%;
+	height: 100%;
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-end;
