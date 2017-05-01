@@ -2,13 +2,9 @@
 /* CSS Document */
 
 .labtour-nav{
-	position: relative;
-	bottom: 10%;
+	position: absolute;
+	bottom: 5%;
 	text-align: center;
-	display: flex;
-	justify-content: center;
-	align-content: center;
-	flex-wrap: wrap;
 	
 }
 footer{
@@ -49,3 +45,5 @@ footer{
 .labtour-nav h3{
 	font-size: 2rem;
 }
+
+
