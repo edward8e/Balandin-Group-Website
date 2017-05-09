@@ -8,6 +8,7 @@
 body{
 	background-color: white;
 }
+
 .jumbotron{
 	background-image: url(../resources/images/website-group1.jpg);
 	background-position: center;
@@ -31,8 +32,56 @@ body{
 
 
 
+
+
+
+
+
+
+
+
+#group-title{
+   position: absolute; 
+   top: 10rem; 
+   right: 5rem;
+	left: auto;
+	background-color: rgba(0,0,0,0);
+	text-align: center;
+}
+#group-title h3{
+	 font-size: 3rem;
+	background-color: rgba(0,0,0,0.75) ;
+	margin: 0px 60px;
+	padding: 1rem;
+	color: white;
+}
+#group-title h1{
+	padding: 1rem;
+	font-size: 5rem;
+	margin: 1rem;
+	background-color: rgba(0,140,186,1);
+}
+
+@media (max-width: 1025px) {
+  #group-title{
+   position: static;  
+}
+	#group-title .profile-text{
+		padding: 0px;
+	}	
+#group-title h3{
+	margin: 0px 0px;
+}
+#group-title h1{
+	margin: 0rem;
+}
+}
+
+
+
+
 .black-bar{
-	background-color: rgb(69, 69, 69);
+	background-color: rgb(64, 64, 64);
 	color: white;
 	text-align: center;
 /*	padding: 1rem 0rem;*/
@@ -40,12 +89,21 @@ body{
 .black-bar p{
 	margin: 0px;
 }
-
+.bl-box{
+	border: solid 1px rgb(69, 69, 69);
+	height: 10rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 .location-info{
 	display: flex;
 	justify-content: flex-end;
 	align-items: center;
 	
+}
+.address-info{
+	flex-direction: column;
 }
 .room-title{
 	display: flex;
@@ -60,7 +118,7 @@ body{
 .black-bar a, .black-bar .orange-anchor a{
 	color: #02b2f4;
 }
-.tel-info, .email-info{
+.tel-info, .email-info, .fax-info{
 	font-size: 2rem;
 	padding: 2rem;
 }
@@ -73,6 +131,9 @@ body{
 	.address-info{
 	padding: 2rem;
 }
+	.fax-info{
+		display: none;
+	}
 }
 
 

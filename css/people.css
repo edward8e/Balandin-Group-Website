@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding: 0px;
+}
+
+.mesh {
+    background-image: url(../resources/images/overlay/1.png);
+    background-position: center;
+    background-repeat: repeat;
+    display: block;
+    width: 100%;
+}
+.mesh img{
+    width: 100%;
+    border: 0px;
+    position: relative;
+    z-index: -1;
+}
+.jumbo-image{
+	max-height: 100%;
+	overflow: hidden;
+}
+.profile-box{
+   position: absolute; 
+   top: 20rem; 
+   left: 7rem; 
+	background-color: black;
+	
+}
+.profile-box h3{
+	 color: #ff552c;
+	margin: 0px;
+}
+.profile-box h1{
+	margin: 0px;
+}
+.dots-white{
+	background-image: url(../resources/images/overlay/white_dot.png);
+	background-repeat: repeat;
+	display: block;
+	height: 1px;
+	width: 100%;
+	margin: 0px;
+	border: 0px;
+}
+.profile-text{
+	color: white;
+	padding: 2rem;
+}
+.dt-lg{
+	height: 9px;
+}
+.dt-rg{
+	margin-bottom: 10px;
+}
+.dt-md{
+	height: 3px;
+}
+
+
+ul {
+   list-style: circle;
+}
+
+
+
+#education{
+	
+	margin: 5%;
+	text-align: center;
+}
+
+ .education-block-content h3{
+	font-size:60px;
+	line-height:80px;
+	font-weight:300;
+	color:#b3b3b3;
+	text-align: center;}
+.education-block-content p{
+	font-size:14px;
+	line-height:18px;
+	font-weight:500;
+	color: rgb(63,63,63);
+	text-align: center;}
+.education-block-content span{
+	font-weight: bold;
+}
+
+.education-block-content h2{
+	position: absolute;
+	top: 170px;
+	font-weight:300;
+	font-size:36px;
+	color:#ffffff;
+	background:#ff552c;
+	padding:5px 15px;
+	-webkit-transform:rotate(-90deg);
+	-ms-transform:rotate(-90deg);
+	transform:rotate(-90deg);
+	-webkit-transform-origin:0 0;
+	-ms-transform-origin:0 0;
+	transform-origin:0 0;
+	text-align:center;
+	margin:0;
+}
+
+.degrees{
+	background-color:  rgb(242, 242, 242);
+}
+.degree{
+	padding: 10px 10px;
+	
+}
+.education-title{
+	padding: 0px;
+}
+
+
+.profile-block-awards h4{
+	border-bottom: 1px solid #d8d8d8;
+}
+
+
+
+
+
+
+
+
+@media (max-width: 1025px) {
+  .profile-box{
+   position: static;
+	  
+	
+}
+	.education-block-content h2{
+	position: static;
+		transform: none;
+}
+	.jumbo-image{
+	overflow: visible;
+		max-height: none;
+	}
+	#nav-drop-mobile{
+		padding-top: 50px;
+	}
+}
+
+
+
+
+
+
+
+
+
+footer{
+	margin-top: 0rem;
+}
