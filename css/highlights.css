@@ -40,7 +40,7 @@ body{
 
 
 
-#group-title{
+.group-title{
    position: absolute; 
    top: 10rem; 
    right: 5rem;
@@ -48,14 +48,14 @@ body{
 	background-color: rgba(0,0,0,0);
 	text-align: center;
 }
-#group-title h3{
+.group-title h3{
 	 font-size: 3rem;
 	background-color: rgba(0,0,0,0.75) ;
 	margin: 0px 60px;
 	padding: 1rem;
 	color: white;
 }
-#group-title h1{
+.group-title h1{
 	padding: 1rem;
 	font-size: 5rem;
 	margin: 1rem;
@@ -63,16 +63,16 @@ body{
 }
 
 @media (max-width: 1025px) {
-  #group-title{
+  .group-title{
    position: static;  
 }
-	#group-title .profile-text{
+	.group-title .profile-text{
 		padding: 0px;
 	}	
-#group-title h3{
+.group-title h3{
 	margin: 0px 0px;
 }
-#group-title h1{
+.group-title h1{
 	margin: 0rem;
 }
 }
@@ -184,9 +184,7 @@ footer{
 	text-decoration: none;
 	
 }
-.strong{
-	font-weight: bold;
-}
+
 .impact-nav span{
 	font-size: 2.5rem;
 }
