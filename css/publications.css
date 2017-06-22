@@ -46,3 +46,7 @@ body{
 .item-box-desc h2{
 	font-family: "Open Sans",Helvetica,sans-serif;}
 */
+
+.item-box-desc h2{
+	font-size: 2rem;
+}

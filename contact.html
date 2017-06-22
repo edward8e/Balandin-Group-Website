@@ -3,19 +3,24 @@
 
 <head>
 
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--    <meta name="viewport" content="width=device-width, initial-scale=1">-->
     <meta name="description" content="">
     <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-    <title>Modern Business - Start Bootstrap Template</title>
+    <title>Balandin Group</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
     <!-- Custom CSS -->
+    <link href="css/navigation.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/people_main.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -26,95 +31,62 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
+    
+<!--    Favicon-->
+<link rel="shortcut icon" href="/favicon.ico" type="resources/images/favicon.ico">
+<link rel="icon" href="resources/images/favicon.ico" type="image/x-icon">
+<script src="https://use.fontawesome.com/6d2387fc38.js"></script>
 </head>
 
 <body>
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+ <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
+            <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+                <a class="navbar-brand" href="index.html">Balandin Group</a>
             </div>
+
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="about.html">About</a>
+                    <li class="hidden">
+                        <a href="#page-top"></a>
                     </li>
-                    <li>
-                        <a href="services.html">Services</a>
+                    <li class="page-scroll">
+                        <a href="index.html">Home</a>
                     </li>
-                    <li class="active">
+                    <li class="page-scroll">
+                        <a href="highlights.html">Research</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="publications.html">Publications</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="expertise.html">Expertise</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="people.html">People</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="lab_tour.html">Lab Tour</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="safety.html">Safety</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="news.html">News</a>
+                    </li>
+                    <li class="page-scroll">
                         <a href="contact.html">Contact</a>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="portfolio-1-col.html">1 Column Portfolio</a>
-                            </li>
-                            <li>
-                                <a href="portfolio-2-col.html">2 Column Portfolio</a>
-                            </li>
-                            <li>
-                                <a href="portfolio-3-col.html">3 Column Portfolio</a>
-                            </li>
-                            <li>
-                                <a href="portfolio-4-col.html">4 Column Portfolio</a>
-                            </li>
-                            <li>
-                                <a href="portfolio-item.html">Single Portfolio Item</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="blog-home-1.html">Blog Home 1</a>
-                            </li>
-                            <li>
-                                <a href="blog-home-2.html">Blog Home 2</a>
-                            </li>
-                            <li>
-                                <a href="blog-post.html">Blog Post</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other Pages <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="full-width.html">Full Width Page</a>
-                            </li>
-                            <li>
-                                <a href="sidebar.html">Sidebar Page</a>
-                            </li>
-                            <li>
-                                <a href="faq.html">FAQ</a>
-                            </li>
-                            <li>
-                                <a href="404.html">404</a>
-                            </li>
-                            <li>
-                                <a href="pricing.html">Pricing Table</a>
-                            </li>
-                        </ul>
                     </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container -->
+        <!-- /.container-fluid -->
     </nav>
 
     <!-- Page Content -->
@@ -124,13 +96,9 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">Contact
-                    <small>Subheading</small>
+                    <small>NDL & POEM</small>
                 </h1>
-                <ol class="breadcrumb">
-                    <li><a href="index.html">Home</a>
-                    </li>
-                    <li class="active">Contact</li>
-                </ol>
+                
             </div>
         </div>
         <!-- /.row -->
@@ -140,35 +108,19 @@
             <!-- Map Column -->
             <div class="col-md-8">
                 <!-- Embedded Google Map -->
-                <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105777.77449350036!2d-117.42849201866704!3d34.05527278863131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcae4687aa9fb3%3A0x10050bdf47721d31!2sUniversity+of+California%2C+Riverside!5e0!3m2!1sen!2sus!4v1496769934088" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
             <!-- Contact Details Column -->
             <div class="col-md-4">
                 <h3>Contact Details</h3>
                 <p>
-                    3481 Melrose Place<br>Beverly Hills, CA 90210<br>
+                    900 University Ave<br>Riverside, CA 92521<br>
                 </p>
-                <p><i class="fa fa-phone"></i> 
-                    <abbr title="Phone">P</abbr>: (123) 456-7890</p>
                 <p><i class="fa fa-envelope-o"></i> 
-                    <abbr title="Email">E</abbr>: <a href="mailto:name@example.com">name@example.com</a>
+                    E: <a href="mailto:balandin@ucr.edu">balandin@ucr.edu</a>
                 </p>
-                <p><i class="fa fa-clock-o"></i> 
-                    <abbr title="Hours">H</abbr>: Monday - Friday: 9:00 AM to 5:00 PM</p>
-                <ul class="list-unstyled list-inline list-social-icons">
-                    <li>
-                        <a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-google-plus-square fa-2x"></i></a>
-                    </li>
-                </ul>
+               
+                
             </div>
         </div>
         <!-- /.row -->
@@ -177,37 +129,36 @@
         <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
         <div class="row">
             <div class="col-md-8">
-                <h3>Send us a Message</h3>
-                <form name="sentMessage" id="contactForm" novalidate>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Full Name:</label>
-                            <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
-                            <p class="help-block"></p>
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Phone Number:</label>
-                            <input type="tel" class="form-control" id="phone" required data-validation-required-message="Please enter your phone number.">
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Email Address:</label>
-                            <input type="email" class="form-control" id="email" required data-validation-required-message="Please enter your email address.">
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Message:</label>
-                            <textarea rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
-                        </div>
-                    </div>
-                    <div id="success"></div>
-                    <!-- For success/fail messages -->
-                    <button type="submit" class="btn btn-primary">Send Message</button>
-                </form>
+          	<table class="lab-table table-hover table-responsive">
+          	<thead>
+          		<tr>
+          			<th>Laboratories</th>
+          			<th>Location</th>
+          		</tr>
+          	</thead>
+				<tr>
+					<td>Phonon Optimized Engineered Materials (POEM) Center</td>
+					<td>MSE 254</td>
+				</tr>
+				<tr>
+					<td>Nano-Device Laboratory (NDL)</td>
+					<td>MSE 254</td>
+				</tr>
+				<tr>
+					<td>2D Materials Transfer and Testing Laboratory</td>
+					<td>MSE 264</td>
+				</tr>
+				<tr>
+					<td>Low-Frequency Noise Laboratory</td>
+					<td>WCH 366</td>
+				</tr>
+				<tr>
+					<td>Micro-Raman Laboratory</td>
+					<td>MSE 262</td>
+				</tr>
+				
+
+			</table>	
             </div>
 
         </div>
@@ -216,17 +167,56 @@
         <hr>
 
         <!-- Footer -->
-        <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; Your Website 2014</p>
-                </div>
-            </div>
-        </footer>
-
+     
     </div>
     <!-- /.container -->
-
+  <footer>
+           <div class="container">
+           	<div class="row">
+			  <div class="col-sm-2 col-xs-6 footer-nav">
+				<a href="index.html"><h3>Balandin Group</h3></a>
+				<a href="highlights.html"><h5>Research</h5></a>
+				<a href="publications.html"><h5>Publications</h5></a>
+				<a href="expertise.html"><h5>Expertise</h5></a>
+				<a href="people.html"><h5>People</h5></a>
+				<a href="lab_tour.html"><h5>Lab Tour</h5></a>
+				<a href="safety.html"><h5>Safety</h5></a>
+				<a href="news.html"><h5>News</h5></a>
+				<a href="contact.html"><h5>Contact</h5></a>
+			  </div>
+             
+             
+              <div class="col-sm-4 col-xs-6 footer-info">
+                <div class="row">
+                	<div class="col-lg-12">
+                		<a href="http://www.ece.ucr.edu/" target="_blank"><h4>Department of Electrical and Computer Engineering</h4></a>
+						<a href="http://www.engr.ucr.edu/" target="_blank"><h4>Bourns College of Engineering</h4></a>
+						<a href="http://www.ucr.edu/" target="_blank"><h4>University of California – Riverside</h4>
+						<h4>Riverside, California 92521 USA</h4></a>
+						<br>
+						<h3><a href="https://scholar.google.com/citations?user=46umSWsAAAAJ" target="_blank">Alexander A. Balandin<br>Google Scholar</a></h3>
+						
+                	</div>
+                </div> 
+           	  </div>
+           		
+       		  <div class="col-sm-3 col-xs-6 footer-logos">
+				<div class="inside-footer">
+				 <img src="resources/images/logo white-W.svg" width="auto"   alt=""/>
+				 <img src="resources/images/Poem logo white-W copy.svg"  alt="" width="auto"/>
+            	</div>
+             </div>
+                	
+             <div class="col-sm-3 col-xs-6 UCR-logo">
+       		  <div class="inside-footer">
+       		    <img class="img-responsive" src="resources/images/UCR EmblemW.svg" alt="" height="200px"/>
+       		    <h5>© 2017 Regents of the University of California</h5>
+          	  </div>
+          	  
+           	 </div>
+		   </div>
+		</div>
+      </footer>
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 

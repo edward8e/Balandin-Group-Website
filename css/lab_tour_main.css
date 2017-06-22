@@ -45,5 +45,18 @@ footer{
 .labtour-nav h3{
 	font-size: 2rem;
 }
+.navbar-custom {
+  background: rgba(0,0,0,0.9);
+/*  font-weight: 700;*/
+  border: none;
+}
 
 
+
+@media (min-width: 1025px) {
+  #bottomNav .container div ul li a{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 14px;
+}
+}

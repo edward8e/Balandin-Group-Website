@@ -7,6 +7,7 @@
 }
 body{
 	background-color: white;
+	padding-top: 0;
 }
 
 .jumbotron{
@@ -42,9 +43,9 @@ body{
 
 .group-title{
    position: absolute; 
-   top: 10rem; 
-   right: 5rem;
-	left: auto;
+  bottom: 0;
+	left: 30rem;
+	right: 30rem;
 	background-color: rgba(0,0,0,0);
 	text-align: center;
 }
@@ -144,6 +145,9 @@ body{
 .profile-block-content h2{
 	color: #ff552c;
 	font-size: 4rem;
+}
+.profile-block-content h3{
+	
 }
 
 .profile-block-content{
@@ -252,3 +256,21 @@ footer{
 .link-members{
 	padding: 1rem 0 2rem 0;
 }
+
+
+
+.project-highlights{
+	text-align: left;
+	background-color: #f7f7f7;
+}
+.img-wrap{
+	padding: 0;
+}
+
+.project-highlights-text{
+	padding: 0 10px 10px 10px;
+}
+.photo-height img{
+	padding-top: 7px;
+}
+

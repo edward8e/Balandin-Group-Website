@@ -51,7 +51,7 @@ body{
 }
 .carousel-caption h1{
 	padding: 1rem;
-	font-size: 5rem;
+	font-size: 3rem;
 	margin: 1rem;
 	background-color: rgba(0,140,186,1);
 }
@@ -132,6 +132,10 @@ body{
 #poem-nav .text {display: none;}
 #poem-nav:hover .text-show {display: none;}
 #poem-nav:hover .text {display: inline-block;}
+
+.carousel-nav-bar h1{
+		font-size: 18px;
+	}
 
 @media (max-width: 1025px){
 	
@@ -247,15 +251,33 @@ body{
 	margin: 1rem;
 	
 }
+.article-quote a{
+	text-decoration: none;
+	color: white;
+	
+}
+
+.text-noise{
+	position: absolute;
+	bottom: 0;
+	top: 0;
+	left: 0;
+	right: 0;
+	color: white;
+}
+
+
 .article-quote h1{ font-size: 2rem; }
 .article-quote h2{ font-size: 2rem; }
 .articl-title h2{ font-size: 1.7rem; padding-bottom: .5rem; }
 .articl-title h4{ font-size: 1.4rem; }
 
-#IEEE-quote h1{ font-size: 1.8rem; }
+#IEEE-quote h1{ font-size: 1.8rem; margin: 0;}
 #IEEE-quote h2{ font-size: 1.5rem; }
 #impact-block .article-quote h1{ font-size: 2.5rem; margin-top: 0px; }
+#impact-block .article-quote h2{ margin-top: 3rem; }
 #impact-block .article-quote h4{ font-size: 1.5rem; margin: 0px;}
+#shines .article-quote h1{ margin-top: 3rem; }
 
 
 .vertical-text{
@@ -281,6 +303,8 @@ body{
 .vertical-text h3{
 /*	font-weight: bold;*/
 	font-size: 2rem;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 .vertical-text h1{
 	font-size: 2.5rem;
@@ -290,6 +314,12 @@ body{
 .vertical-text h2{
 	font-size: 2.7rem;
 }
+.vertical-text a{
+	text-decoration: none;
+	color: white;
+}
+
+
 
 .grid .article-text h2{
 	margin: 10px 0px 0px 0px; 
@@ -337,67 +367,6 @@ color: #02b2f4;
 
 
 
-@media (min-width: 1250px){ 
-/*
-	.grid-item { height: 240px; width: 19%; margin: 10px 0.5%; }
-	.grid-item--width2{	width: 39%; }
-	.grid-item--height2 { height: 500px; }
-	.grid-sizer{ width: 20%;}
-	.img-wrap{ height: 200px; }
-	.article-text{ height: 270px; }
-	.article-quote h1{ font-size: 3rem; }
-	.article-quote h2{ font-size: 2.5rem; }
-*/
-/*	.vertical.grid-item--height2 img{ min-width: 0; }*/
-}
-@media (min-width:642px) and (max-width: 1025px) {
-	.grid-item { margin: 7px 1%; width: 31.3333%; height: 175px;}
-	.grid-item--width2{ width: 64.6666%; }
-	.grid-item--height2 { height: 364px; }
-	.grid-sizer{ width: 33.333%; }
-	.img-wrap{ height: 175px; }
-	.vertical.grid-item--height2 img{ width: 100%; height: auto; }
-	#UCR-article{ display: none;}
-}
-@media (max-width: 769px){
-	
-.vertical.grid-item--height2 img{ width: auto; height: 100%; }
-}
-@media (min-width:482px) and (max-width: 641px) { 
-	.grid-item { width: 48%; margin: 5px 1%; height: 170px;}
-	.grid-item--width2{	width: 98%; }
-	.grid-item--height2 { height: 350px; }
-	.grid-sizer{ width: 50%; }
-	.img-wrap{ height: 170px; }
-	.vertical.grid-item--height2 img{ width: 100%; height: auto; }
-	#group-photo{ display: none;}
-}
-@media (max-width: 481px) {	
-	.grid-item { width: 90%; margin: 5px 5%; height: auto;}
-	.grid-item--width2{	width: 90%; height: auto;}
-	.grid-item--height2 { height: auto; }
-	.grid-sizer{ width: 100%; }
-	.img-wrap{ height: auto; position: relative; }
-	.vertical.grid-item--height2 img{
-	width: 100%;
-	height: auto;
-	min-height: none;
-	max-width: 100%;
-}
-	.grid-item--height2 img{    
-    top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	width: 100%;
-    position: relative;
-}
-}
-
-
-
-
-
 
 
 
@@ -418,7 +387,7 @@ footer{
 	margin-bottom: 0px;
 	color: white;
 	padding-top: 2rem;
-	padding-bottom: 5rem;
+	padding-bottom: 2rem;
 	margin-top: 0px;
 }
 .footer-middle {
@@ -440,27 +409,57 @@ footer{
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
-	padding: 2rem;
-	padding-left: 3rem;
+	padding-top: 5.5rem;
 }
 .footer-info h4{
 	margin: 2px;
+	font-size: 1.5rem;
 }
-.footer-logos{
-	margin-top: 2rem;
+
+.footer-logos .inside-footer img{
+	height: 90px;
+	max-height: 90px;
+	margin: 10px 0;
 }
 .footer-logos img{
-	margin: 0rem 1rem 0rem 1rem;
+	height: 90px;
+	max-height: 90px;
+	margin: 10px 0;
 }
 .footer-nav h3{
 	font-weight: bold;
 	color: #ff552c;
 }
+.footer-nav h5{
+	margin: 5px 0;
+}
+.footer-info a,.footer-nav a{
+	color: white;
+}
+
+.footer-info a:hover,.footer-nav a:hover{
+	color: #ff552c;
+	transition-timing-function: ease;
+	transition-duration: 0.1s;
+	text-decoration: none;
+}
 .footer-nav span{
 	font-weight: normal;
 }
+.UCR-logo .inside-footer{
+	text-align: center;
+}
 
+.UCR-logo .inside-footer img{
+	max-height: 200px;
+}
+.UCR-logo{
+	text-align: center;
+}
 
+.UCR-logo img{
+	max-height: 200px;
+}
 
 
 
@@ -481,6 +480,102 @@ footer{
 	font-weight: bold;
 }
 
+.lab-table{
+	width: 100%;
+}
 
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #dbdbdb;
+}
+
+.footer-logos, .UCR-logo{
+	min-height: 240px;
+}
+.inside-footer{
+	position: absolute;
+	bottom: 0;
+	text-align: center; 
+}
+
+
+.footer-info p{
+	color: #ff552c;
+	margin-bottom: 0;
+}
+.footer-info h3{
+	margin-top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+/*Media Queries*/
+
+
+@media (min-width: 1250px){ 
+/*
+	.grid-item { height: 240px; width: 19%; margin: 10px 0.5%; }
+	.grid-item--width2{	width: 39%; }
+	.grid-item--height2 { height: 500px; }
+	.grid-sizer{ width: 20%;}
+	.img-wrap{ height: 200px; }
+	.article-text{ height: 270px; }
+	.article-quote h1{ font-size: 3rem; }
+	.article-quote h2{ font-size: 2.5rem; }
+*/
+/*	.vertical.grid-item--height2 img{ min-width: 0; }*/
+}
+@media (min-width:642px) and (max-width: 1025px) {
+	.grid-item { margin: 7px 1%; width: 31.3333%; height: 175px;}
+	.grid-item--width2{ width: 64.6666%; }
+	.grid-item--height2 { height: 364px; }
+	.grid-sizer{ width: 33.333%; }
+	.img-wrap{ height: 175px; }
+	.vertical.grid-item--height2 img{ width: 100%; height: auto; }
+	#UCR-article{ display: none;}
+	.footer-logos .inside-footer img{ height: 70px;}
+}
+@media (max-width: 769px){
+	
+.vertical.grid-item--height2 img{ width: auto; height: 100%; }
+}
+@media (min-width:482px) and (max-width: 641px) { 
+	.grid-item { width: 48%; margin: 5px 1%; height: 170px;}
+	.grid-item--width2{	width: 98%; }
+	.grid-item--height2 { height: 350px; }
+	.grid-sizer{ width: 50%; }
+	.img-wrap{ height: 170px; }
+	.vertical.grid-item--height2 img{ width: 100%; height: auto; }
+	#group-photo{ display: none;}
+	.footer-logos, .UCR-logo{display: inline-block;}
+}
+@media (max-width: 481px) {	
+	.grid-item { width: 90%; margin: 5px 5%; height: auto;}
+	.grid-item--width2{	width: 90%; height: auto;}
+	.grid-item--height2 { height: auto; }
+	.grid-sizer{ width: 100%; }
+	.img-wrap{ height: auto; position: relative; }
+	.vertical.grid-item--height2 img{
+	width: 100%;
+	height: auto;
+	min-height: none;
+	max-width: 100%;
+}
+	.grid-item--height2 img{    
+    top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+    position: relative;
+}
+	.footer-logos .inside-footer img{ height: 60px;}
+}
 
 
