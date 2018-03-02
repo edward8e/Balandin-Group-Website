@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="red.css" server="balandingroup.ucr.edu/htdocs/" local="130393519560000000" remote="130393519560000000" Dst="1" />
+<file name="yellow.css" server="balandingroup.ucr.edu/htdocs/" local="130393519540000000" remote="130393519540000000" Dst="1" />
+<file name="pink.css" server="balandingroup.ucr.edu/htdocs/" local="130393519580000000" remote="130393519580000000" Dst="1" />
+<file name="darkblue.css" server="balandingroup.ucr.edu/htdocs/" local="130393519460000000" remote="130393519460000000" Dst="1" />
+<file name="brown.css" server="balandingroup.ucr.edu/htdocs/" local="130393519500000000" remote="130393519500000000" Dst="1" />
+<file name="blue.css" server="balandingroup.ucr.edu/htdocs/" local="130797936560000000" remote="130797936560000000" Dst="1" />
+<file name="darkgreen.css" server="balandingroup.ucr.edu/htdocs/" local="130393519420000000" remote="130393519420000000" Dst="1" />
+<file name="green.css" server="balandingroup.ucr.edu/htdocs/" local="130393519700000000" remote="130393519700000000" Dst="1" />
+<file name="lightgrey.css" server="balandingroup.ucr.edu/htdocs/" local="130393519680000000" remote="130393519680000000" Dst="1" />
+<file name="orange.css" server="balandingroup.ucr.edu/htdocs/" local="130393519340000000" remote="130393519340000000" Dst="1" />
+=======
 <file name="blue.css" server="balandingroup.ucr.edu" local="130797900560000000" remote="131381822010000000" Dst="2" />
 <file name="brown.css" server="balandingroup.ucr.edu" local="130393483500000000" remote="131381822010000000" Dst="2" />
 <file name="darkblue.css" server="balandingroup.ucr.edu" local="130393483460000000" remote="131381822010000000" Dst="2" />
@@ -30,4 +42,5 @@
 <file name="pink.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="130393483580000000" remote="130393483580000000" Dst="2" />
 <file name="red.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="130393483560000000" remote="130393483560000000" Dst="2" />
 <file name="yellow.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="130393483540000000" remote="130393483540000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

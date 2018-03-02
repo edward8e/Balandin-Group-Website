@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="isotope.pkgd.min.js" server="balandingroup.ucr.edu/htdocs/" local="131381025980000000" remote="131381025980000000" Dst="1" />
+<file name="contact_me.js" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="bootstrap.js" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="jquery.js" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="packery.pkgd.min.js" server="balandingroup.ucr.edu/htdocs/" local="131379243240000000" remote="131379243240000000" Dst="1" />
+<file name="masonry.pkgd.min.js" server="balandingroup.ucr.edu/htdocs/" local="131381025600000000" remote="131381025600000000" Dst="1" />
+<file name="bootstrap.min.js" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="jqBootstrapValidation.js" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="main.js" server="balandingroup.ucr.edu/htdocs/" local="131379162210000000" remote="131379162210000000" Dst="1" />
+<file name="jquery.js" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="bootstrap.min.js" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="packery.pkgd.min.js" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131379243240000000" remote="131379243240000000" Dst="1" />
+=======
 <file name="bootstrap.js" server="balandingroup.ucr.edu" local="131160620850000000" remote="131381822210000000" Dst="2" />
 <file name="bootstrap.min.js" server="balandingroup.ucr.edu" local="131160620850000000" remote="131381822210000000" Dst="2" />
 <file name="contact_me.js" server="balandingroup.ucr.edu" local="131160620850000000" remote="131381822220000000" Dst="2" />
@@ -27,4 +41,5 @@
 <file name="jqBootstrapValidation.js" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131160620850000000" remote="131160620850000000" Dst="2" />
 <file name="main.js" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131379126210000000" remote="131379126210000000" Dst="2" />
 <file name="masonry.pkgd.min.js" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131380989600000000" remote="131380989600000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

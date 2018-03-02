@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="layout.css" server="balandingroup.ucr.edu/htdocs/" local="131381115420000000" remote="131381115420000000" Dst="1" />
+<file name="essentials.css" server="balandingroup.ucr.edu/htdocs/" local="131381070740000000" remote="131381070740000000" Dst="1" />
+<file name="portfolio.css" server="balandingroup.ucr.edu/htdocs/" local="131407295210000000" remote="131407295210000000" Dst="1" />
+=======
 <file name="essentials.css" server="balandingroup.ucr.edu" local="131381034747124829" remote="131381821920000000" Dst="2" />
 <file name="layout.css" server="balandingroup.ucr.edu" local="131381079422783729" remote="131381821920000000" Dst="2" />
 <file name="portfolio.css" server="balandingroup.ucr.edu" local="130362316700000000" remote="131381821930000000" Dst="2" />
@@ -9,4 +14,5 @@
 <file name="portfolio.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="130362316700000000" remote="131407259210000000" Dst="2" />
 <file name="layout.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131381079420000000" remote="131381079420000000" Dst="2" />
 <file name="essentials.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131381034740000000" remote="131381034740000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

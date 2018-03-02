@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="Link to the journal.url" server="balandingroup.ucr.edu/htdocs/" local="131368865740000000" remote="131368865740000000" Dst="1" />
+<file name="Full text in PDF.url" server="balandingroup.ucr.edu/htdocs/" local="131368865710000000" remote="131368865710000000" Dst="1" />
+<file name="Li-Ion-CNT-Battery.pdf" server="balandingroup.ucr.edu/htdocs/" local="131368875460000000" remote="131368875460000000" Dst="1" />
+=======
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu" local="131368829719259991" remote="131381823420000000" Dst="2" />
 <file name="Li-Ion-CNT-Battery.pdf" server="balandingroup.ucr.edu" local="131368839469874053" remote="131381823420000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu" local="131368829744390544" remote="131381823420000000" Dst="2" />
@@ -9,4 +14,5 @@
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368829710000000" remote="131368829710000000" Dst="2" />
 <file name="Li-Ion-CNT-Battery.pdf" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368839460000000" remote="131368839460000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368829740000000" remote="131368829740000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

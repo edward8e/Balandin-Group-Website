@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="Full text in PDF.url" server="balandingroup.ucr.edu/htdocs/" local="131368865950000000" remote="131368865950000000" Dst="1" />
+<file name="Balandin-IEEE-Nano-2011.pdf" server="balandingroup.ucr.edu/htdocs/" local="131368876160000000" remote="131368876160000000" Dst="1" />
+<file name="Link to the journal.url" server="balandingroup.ucr.edu/htdocs/" local="131368865970000000" remote="131368865970000000" Dst="1" />
+=======
 <file name="Balandin-IEEE-Nano-2011.pdf" server="balandingroup.ucr.edu" local="131368840165172655" remote="131381823250000000" Dst="2" />
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu" local="131368829952088119" remote="131381823260000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu" local="131368829970488056" remote="131381823260000000" Dst="2" />
@@ -9,4 +14,5 @@
 <file name="Balandin-IEEE-Nano-2011.pdf" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368840160000000" remote="131368840160000000" Dst="2" />
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368829950000000" remote="131368829950000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368829970000000" remote="131368829970000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

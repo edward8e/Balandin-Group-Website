@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="JAP-TaSe2-Phonon.pdf" server="balandingroup.ucr.edu/htdocs/" local="131368871260000000" remote="131368871260000000" Dst="1" />
+<file name="Full text in PDF.url" server="balandingroup.ucr.edu/htdocs/" local="131368864210000000" remote="131368864210000000" Dst="1" />
+<file name="Link to the journal.url" server="balandingroup.ucr.edu/htdocs/" local="131368864230000000" remote="131368864230000000" Dst="1" />
+=======
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu" local="131368828216697179" remote="131381823550000000" Dst="2" />
 <file name="JAP-TaSe2-Phonon.pdf" server="balandingroup.ucr.edu" local="131368835268616649" remote="131381823560000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu" local="131368828236689607" remote="131381823560000000" Dst="2" />
@@ -9,4 +14,5 @@
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368828210000000" remote="131368828210000000" Dst="2" />
 <file name="JAP-TaSe2-Phonon.pdf" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368835260000000" remote="131368835260000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368828230000000" remote="131368828230000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="_mixins.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="_list.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="_variables.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="_path.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="_bordered-pulled.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="font-awesome.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="font-awesome.css" server="balandingroup.ucr.edu/htdocs/" local="131552556620000000" remote="131552556620000000" Dst="1" />
+<file name="_fixed-width.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="_larger.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="_rotated-flipped.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="_spinning.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="_stacked.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="_core.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="_icons.scss" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+=======
 <file name="font-awesome.css" server="balandingroup.ucr.edu" local="131379115229746107" remote="131381822140000000" Dst="2" />
 <file name="font-awesome.scss" server="balandingroup.ucr.edu" local="131160620850000000" remote="131381822140000000" Dst="2" />
 <file name="_bordered-pulled.scss" server="balandingroup.ucr.edu" local="131160620850000000" remote="131381822150000000" Dst="2" />
@@ -42,4 +58,5 @@
 <file name="_spinning.scss" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131160620850000000" remote="131160620850000000" Dst="2" />
 <file name="_stacked.scss" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131160620850000000" remote="131160620850000000" Dst="2" />
 <file name="_variables.scss" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131160620850000000" remote="131160620850000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

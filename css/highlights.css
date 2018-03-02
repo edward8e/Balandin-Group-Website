@@ -274,3 +274,55 @@ footer{
 	padding-top: 7px;
 }
 
+<<<<<<< HEAD
+.btn-orange{
+	background-color: rgba(0,0,0,0);
+	border: 0px solid black;
+	font-size: 2rem;
+	border-radius: 0px;
+}
+.btn-orange:hover{
+	background-color: #18BC9C;
+	
+}
+.sub-menu-center{
+/*	margin: 5% 5% 5% 5%;*/
+	text-align: right;
+/*
+	display: flex;
+	justify-content: flex-end;
+*/
+}
+.sub-menu-center p{
+	margin: 0px;
+}
+.sub-menu-fix{
+	margin: 0px;
+}
+.panel-group .panel+.panel{
+	margin: 0px;
+}
+
+#bottomNav{
+	padding: 0px;
+	min-height: 30px;
+
+}
+.navbar-padding li a{
+	font-size: 1.4rem;
+	padding: 5px 10px;
+}
+.navbar-collapse.collapse {
+    height: 30px !important;
+  }
+.down-bar{
+	margin: 0px;
+}
+@media (max-width: 1500px) {
+	.down-bar {
+    bottom: 0px; 
+}
+}
+
+=======
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6

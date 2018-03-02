@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="Link to the journal.url" server="balandingroup.ucr.edu/htdocs/" local="131351635760000000" remote="131351635760000000" Dst="1" />
+<file name="Applied-Mat-CZTS.pdf" server="balandingroup.ucr.edu/htdocs/" local="131351634230000000" remote="131351634230000000" Dst="1" />
+<file name="Applied-Mat-CZTS.JPG" server="balandingroup.ucr.edu/htdocs/" local="131351638160000000" remote="131351638160000000" Dst="1" />
+=======
 <file name="Applied-Mat-CZTS.JPG" server="balandingroup.ucr.edu" local="131351602163659525" remote="131381824060000000" Dst="2" />
 <file name="Applied-Mat-CZTS.pdf" server="balandingroup.ucr.edu" local="131351598230123811" remote="131381824070000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu" local="131351599764222688" remote="131381824070000000" Dst="2" />
@@ -9,4 +14,5 @@
 <file name="Applied-Mat-CZTS.JPG" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131351602160000000" remote="131351602160000000" Dst="2" />
 <file name="Applied-Mat-CZTS.pdf" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131351598230000000" remote="131351598230000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131351599760000000" remote="131351599760000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

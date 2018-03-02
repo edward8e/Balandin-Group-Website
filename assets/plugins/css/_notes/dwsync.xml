@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="realestate.css" server="balandingroup.ucr.edu/htdocs/" local="130391835680000000" remote="130391835680000000" Dst="1" />
+<file name="layout-responsive.css" server="balandingroup.ucr.edu/htdocs/" local="130542432760000000" remote="130542432760000000" Dst="1" />
+<file name="portfolio.css" server="balandingroup.ucr.edu/htdocs/" local="131381869640000000" remote="131381869640000000" Dst="1" />
+<file name="custom_example.css" server="balandingroup.ucr.edu/htdocs/" local="130397896740000000" remote="130397896740000000" Dst="1" />
+<file name="layout.css" server="balandingroup.ucr.edu/htdocs/" local="131126259300000000" remote="131126259300000000" Dst="1" />
+<file name="shop.css" server="balandingroup.ucr.edu/htdocs/" local="130395284640000000" remote="130395284640000000" Dst="1" />
+<file name="blog.css" server="balandingroup.ucr.edu/htdocs/" local="130488558800000000" remote="130488558800000000" Dst="1" />
+<file name="font-awesome.css" server="balandingroup.ucr.edu/htdocs/" local="131381869640000000" remote="131381869640000000" Dst="1" />
+<file name="_header_footer.css" server="balandingroup.ucr.edu/htdocs/" local="130393439440000000" remote="130393439440000000" Dst="1" />
+<file name="superslides.css" server="balandingroup.ucr.edu/htdocs/" local="131381869640000000" remote="131381869640000000" Dst="1" />
+<file name="countdown.css" server="balandingroup.ucr.edu/htdocs/" local="131381869640000000" remote="131381869640000000" Dst="1" />
+<file name="_white_menu.css" server="balandingroup.ucr.edu/htdocs/" local="131381869640000000" remote="131381869640000000" Dst="1" />
+<file name="layout-dark.css" server="balandingroup.ucr.edu/htdocs/" local="130764575360000000" remote="130764575360000000" Dst="1" />
+<file name="essentials.css" server="balandingroup.ucr.edu/htdocs/" local="131126236500000000" remote="131126236500000000" Dst="1" />
+<file name="animate.css" server="balandingroup.ucr.edu/htdocs/" local="131381869630000000" remote="131381869630000000" Dst="1" />
+=======
 <file name="animate.css" server="balandingroup.ucr.edu" local="130353261720000000" remote="131381822000000000" Dst="2" />
 <file name="blog.css" server="balandingroup.ucr.edu" local="130488522800000000" remote="131381822000000000" Dst="2" />
 <file name="countdown.css" server="balandingroup.ucr.edu" local="130384577940000000" remote="131381822030000000" Dst="2" />
@@ -45,4 +62,5 @@
 <file name="realestate.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="130391799680000000" remote="130391799680000000" Dst="2" />
 <file name="shop.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="130395248640000000" remote="130395248640000000" Dst="2" />
 <file name="_header_footer.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="130393403440000000" remote="130393403440000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

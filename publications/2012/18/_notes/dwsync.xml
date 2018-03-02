@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="Full text in PDF.url" server="balandingroup.ucr.edu/htdocs/" local="131368865770000000" remote="131368865770000000" Dst="1" />
+<file name="Diamond-GaN-Integration.pdf" server="balandingroup.ucr.edu/htdocs/" local="131368875520000000" remote="131368875520000000" Dst="1" />
+<file name="Link to the journal.url" server="balandingroup.ucr.edu/htdocs/" local="131368865790000000" remote="131368865790000000" Dst="1" />
+=======
 <file name="Diamond-GaN-Integration.pdf" server="balandingroup.ucr.edu" local="131368839528599411" remote="131381823430000000" Dst="2" />
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu" local="131368829772796830" remote="131381823430000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu" local="131368829794575094" remote="131381823430000000" Dst="2" />
@@ -9,4 +14,5 @@
 <file name="Diamond-GaN-Integration.pdf" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368839520000000" remote="131368839520000000" Dst="2" />
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368829770000000" remote="131368829770000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368829790000000" remote="131368829790000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

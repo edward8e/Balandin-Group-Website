@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="Full text in PDF.url" server="balandingroup.ucr.edu/htdocs/" local="131368865030000000" remote="131368865030000000" Dst="1" />
+<file name="Link to the journal.url" server="balandingroup.ucr.edu/htdocs/" local="131368865040000000" remote="131368865040000000" Dst="1" />
+<file name="Balandin-Graded-Graphene-FET.pdf" server="balandingroup.ucr.edu/htdocs/" local="131368874910000000" remote="131368874910000000" Dst="1" />
+=======
 <file name="Balandin-Graded-Graphene-FET.pdf" server="balandingroup.ucr.edu" local="131368838911963484" remote="131381823510000000" Dst="2" />
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu" local="131368829037926522" remote="131381823510000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu" local="131368829048589358" remote="131381823510000000" Dst="2" />
@@ -9,4 +14,5 @@
 <file name="Balandin-Graded-Graphene-FET.pdf" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368838910000000" remote="131368838910000000" Dst="2" />
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368829030000000" remote="131368829030000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368829040000000" remote="131368829040000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

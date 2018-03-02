@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="Balandin-JPCM-Review.pdf" server="balandingroup.ucr.edu/htdocs/" local="131368872480000000" remote="131368872480000000" Dst="1" />
+<file name="Full text in PDF.url" server="balandingroup.ucr.edu/htdocs/" local="131368864710000000" remote="131368864710000000" Dst="1" />
+<file name="Link to the journal.url" server="balandingroup.ucr.edu/htdocs/" local="131368864720000000" remote="131368864720000000" Dst="1" />
+=======
 <file name="Balandin-JPCM-Review.pdf" server="balandingroup.ucr.edu" local="131368836488283824" remote="131381823490000000" Dst="2" />
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu" local="131368828711097934" remote="131381823490000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu" local="131368828728916431" remote="131381823490000000" Dst="2" />
@@ -9,4 +14,5 @@
 <file name="Balandin-JPCM-Review.pdf" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368836480000000" remote="131368836480000000" Dst="2" />
 <file name="Full text in PDF.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368828710000000" remote="131368828710000000" Dst="2" />
 <file name="Link to the journal.url" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131368828720000000" remote="131368828720000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="test.css" server="balandingroup.ucr.edu/htdocs/" local="131422477000000000" remote="131422477000000000" Dst="1" />
+<file name="lab_tour.css" server="balandingroup.ucr.edu/htdocs/" local="131418715830000000" remote="131418715830000000" Dst="1" />
+<file name="highlights.css" server="balandingroup.ucr.edu/htdocs/" local="131583842550000000" remote="131583842550000000" Dst="1" />
+<file name="lab_tour_main.css" server="balandingroup.ucr.edu/htdocs/" local="131418854710000000" remote="131418854710000000" Dst="1" />
+<file name="style.css" server="balandingroup.ucr.edu/htdocs/" local="131425786060000000" remote="131425786060000000" Dst="1" />
+<file name="expertise.css" server="balandingroup.ucr.edu/htdocs/" local="131422381420000000" remote="131422381420000000" Dst="1" />
+<file name="people_main.css" server="balandingroup.ucr.edu/htdocs/" local="131411806380000000" remote="131411806380000000" Dst="1" />
+<file name="bootstrap.css" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="talks.css" server="balandingroup.ucr.edu/htdocs/" local="131425775370000000" remote="131425775370000000" Dst="1" />
+<file name="publications.css" server="balandingroup.ucr.edu/htdocs/" local="131413406760000000" remote="131413406760000000" Dst="1" />
+<file name="bootstrap.min.css" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="people.css" server="balandingroup.ucr.edu/htdocs/" local="131411806120000000" remote="131411806120000000" Dst="1" />
+<file name="navigation.css" server="balandingroup.ucr.edu/htdocs/" local="131411805880000000" remote="131411805880000000" Dst="1" />
+<file name="modern-business.css" server="balandingroup.ucr.edu/htdocs/" local="131379617790000000" remote="131379617790000000" Dst="1" />
+<file name="navigation.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131644278292211555" remote="131644280200000000" Dst="1" />
+<file name="modern-business.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131379617790000000" remote="131379617790000000" Dst="1" />
+<file name="style.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131425786060000000" remote="131425786060000000" Dst="1" />
+<file name="people.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131411806120000000" remote="131411806120000000" Dst="1" />
+<file name="highlights.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131583842550000000" remote="131583842550000000" Dst="1" />
+<file name="people_main.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131411806380000000" remote="131411806380000000" Dst="1" />
+=======
 <file name="bootstrap.css" server="balandingroup.ucr.edu" local="131160620850000000" remote="131381822070000000" Dst="2" />
 <file name="bootstrap.min.css" server="balandingroup.ucr.edu" local="131160620850000000" remote="131381822080000000" Dst="2" />
 <file name="highlights.css" server="balandingroup.ucr.edu" local="131381131675499878" remote="131381822080000000" Dst="2" />
@@ -34,4 +56,5 @@
 <file name="bootstrap.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131160620850000000" remote="131160620850000000" Dst="2" />
 <file name="bootstrap.min.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131160620850000000" remote="131160620850000000" Dst="2" />
 <file name="lab_tour_main.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131418818312895799" remote="131418818710000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>

@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
+<file name="mixins.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="font-awesome.css" server="balandingroup.ucr.edu/htdocs/" local="131552556620000000" remote="131552556620000000" Dst="1" />
+<file name="mixins.css" server="balandingroup.ucr.edu/htdocs/" local="131582912080000000" remote="131582912080000000" Dst="1" />
+<file name="stacked.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="rotated-flipped.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="core.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="icons.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="fixed-width.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="font-awesome.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="variables.css" server="balandingroup.ucr.edu/htdocs/" local="131552556620000000" remote="131552556620000000" Dst="1" />
+<file name="larger.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="path.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="variables.less" server="balandingroup.ucr.edu/htdocs/" local="131583737130000000" remote="131583737130000000" Dst="1" />
+<file name="bordered-pulled.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="list.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+<file name="spinning.less" server="balandingroup.ucr.edu/htdocs/" local="131160656850000000" remote="131160656850000000" Dst="1" />
+=======
 <file name="bordered-pulled.less" server="balandingroup.ucr.edu" local="131160620850000000" remote="131381822110000000" Dst="2" />
 <file name="core.less" server="balandingroup.ucr.edu" local="131160620850000000" remote="131381822110000000" Dst="2" />
 <file name="fixed-width.less" server="balandingroup.ucr.edu" local="131160620850000000" remote="131381822110000000" Dst="2" />
@@ -48,4 +66,5 @@
 <file name="stacked.less" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131160620850000000" remote="131160620850000000" Dst="2" />
 <file name="variables.css" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131379115220000000" remote="131379115220000000" Dst="2" />
 <file name="variables.less" server="balandingroup.ucr.edu//vhome/balindin/htdocs/" local="131160620850000000" remote="131160620850000000" Dst="2" />
+>>>>>>> 3080609f9941c8f1a8abbc61fb69c5475ac42db6
 </dwsync>
